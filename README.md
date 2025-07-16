@@ -18,10 +18,10 @@
 
 | No. | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
-| 1 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ⬜ |
-| 2 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | ⬜ |
-| 3 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | ⬜ |
-| 4 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | ⬜ |
+| 1 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ✅ |
+| 2 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | ✅ |
+| 3 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | ✅ |
+| 4 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | ✅ |
 
 ---
 
