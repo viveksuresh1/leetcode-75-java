@@ -1,3 +1,14 @@
+
+public class greatestCommonDivisor {
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        String str1 = "ABABAB";
+        String str2 = "ABAB";
+        System.out.println(solution.gcdOfStrings(str1, str2)); // Output: "AB"
+    }
+}
+
+
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
         if(!(str1+str2).equals(str2+str1))
