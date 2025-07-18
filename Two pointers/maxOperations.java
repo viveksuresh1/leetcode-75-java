@@ -1,4 +1,4 @@
-
+import java.util.Arrays;
 public class maxOperations {
     public static void main(String[] args) {
         Solution solution = new Solution();
@@ -12,7 +12,7 @@ public class maxOperations {
 
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        int ops = 0, n=0,i=0,j=nums.length-1;
+        int ops = 0,i=0,j=nums.length-1;
         Arrays.sort(nums);
         while(i<j){
             int sum = (nums[i]+nums[j]);
