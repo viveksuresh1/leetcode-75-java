@@ -29,10 +29,10 @@
 
 | No. | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
-| 1 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | ⬜ |
-| 2 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | ⬜ |
-| 3 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | ⬜ |
-| 4 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | ⬜ |
+| 1 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | ✅ |
+| 2 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | ✅ |
+| 3 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | ✅ |
+| 4 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | ✅ |
 
 ---
 
@@ -40,8 +40,8 @@
 
 | No. | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
-| 1 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | ⬜ |
-| 2 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | ⬜ |
+| 1 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | ✅ |
+| 2 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | ✅ |
 
 ---
 
