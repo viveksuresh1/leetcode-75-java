@@ -1,4 +1,3 @@
-package SlidingWindow;
 
 public class maxVowels {
     public static void main(String[] args) {
