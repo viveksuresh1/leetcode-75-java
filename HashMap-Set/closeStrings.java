@@ -14,7 +14,8 @@ class Solution {
     public boolean closeStrings(String word1, String word2) {
         HashMap<Character,Integer> hmap1 = new HashMap<>();
         HashMap<Character,Integer> hmap2 = new HashMap<>();
-        HashSet<Integer> count = new HashSet<>();
+        if(word1.length() != word2.length()) return false;
+        if(word1.equals(word2)) return true;
         for(char letter:word1.toCharArray()){
             hmap1.put(letter, hmap1.getOrDefault(letter,0)+1);
         }

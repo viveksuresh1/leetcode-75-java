@@ -59,9 +59,9 @@
 
 | No. | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
-| 1 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | ⬜ |
-| 2 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | ⬜ |
-| 3 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | ⬜ |
+| 1 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | ✅ |
+| 2 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | ✅ |
+| 3 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | ✅ |
 
 ---
 
@@ -69,8 +69,8 @@
 
 | No. | Problem | Difficulty | Status |
 |-----|---------|------------|--------|
-| 1 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | ⬜ |
-| 2 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | ⬜ |
+| 1 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | ✅ |
+| 2 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | ✅ |
 
 ---
 
