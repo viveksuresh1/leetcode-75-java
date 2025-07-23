@@ -1,4 +1,4 @@
-
+package STACK;
 import java.util.Stack;
 
 public class asteroidCollission {
